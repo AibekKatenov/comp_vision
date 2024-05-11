@@ -1,0 +1,5 @@
+fastapi==0.111.0
+pydantic==2.7.1
+uvicorn==0.29.0
+yolo==0.3.2 
+ultralytics==8.0.66
